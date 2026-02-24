@@ -1,40 +1,4 @@
-# index.html<!DOCTYPE html><html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chocolate dos Deuses - eBook de Receitas</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fff8f2;
-      margin: 0;
-      padding: 0;
-      color: #4b2e2e;
-    }
-    header {
-      background-color: #8b4513;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    .container {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    .cta {
-      background-color: #d2691e;
-      color: white;
-      padding: 1.5rem;
-      text-align: center;
-      font-size: 1.5rem;
-      margin: 2rem 0;
-      border-radius: 10px;
-    }
-    .button {
-      display: inline-block;
-      background-color: #4b2e2e;
-      color: white;
+
       padding: 1rem 2rem;
       text-decoration: none;
       border-radius: 5px;
